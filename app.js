@@ -396,9 +396,6 @@ app.get('/deathCertificate/ASHADEVILAURIYA', (req, res) => {
 app.get('/deathCertificate/RIMADEVILAURIYA', (req, res) => {
    res.render("126");
 });
-
-
-
 app.get('/deathCertificate/LALITADEVILAURIYA', (req, res) => {
    res.render("127");
 });
@@ -414,6 +411,12 @@ app.get('/deathCertificate/NIRMALADEVILAURIYA', (req, res) => {
 app.get('/deathCertificate/SILADEVILAURIYA', (req, res) => {
    res.render("131");
 });
+
+
+app.get('/deathCertificate/RIMADEVILAURIYA ', (req, res) => {
+   res.render("132");
+});
+
 
 
 
