@@ -676,10 +676,6 @@ app.get('/deathCertificate/RUNADEVISHEOHAR', (req, res) => {
 app.get('/deathCertificate/RUKHSANAKHATUNSHEOHAR', (req, res) => {
    res.render("217");
 });
-
-
-
-
 app.get('/deathCertificate/BINDUDEVISHEOHAR', (req, res) => {
    res.render("218");
 });
@@ -700,6 +696,27 @@ app.get('/deathCertificate/SONIKUMARISHEOHAR', (req, res) => {
 });
 app.get('/deathCertificate/RAMBHADEVISHEOHAR2', (req, res) => {
    res.render("224");
+});
+
+
+
+app.get('/deathCertificate/USHADEVIMOTIHARI', (req, res) => {
+   res.render("225");
+});
+app.get('/deathCertificate/SHAHINAKHATUNMOTIHARI', (req, res) => {
+   res.render("226");
+});
+app.get('/deathCertificate/KIRANDEVIMOTIHARI', (req, res) => {
+   res.render("227");
+});
+app.get('/deathCertificate/SABAKHATUNMOTIHARI', (req, res) => {
+   res.render("228");
+});
+app.get('/deathCertificate/VIDANTIDEVIMOTIHARI', (req, res) => {
+   res.render("229");
+});
+app.get('/deathCertificate/SANGITADEVIMOTIHARI', (req, res) => {
+   res.render("230");
 });
 
 
