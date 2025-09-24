@@ -584,7 +584,7 @@ app.get('/deathCertificate/MANJUDEVIMAHUAAGACHHI', (req, res) => {
 app.get('/deathCertificate/KIRANDEVIMAHUAAGACHHI1', (req, res) => {
    res.render("184");
 });
-app.get('/deathCertificate/KIRANDEVIMAHUAAGACHHI1', (req, res) => {
+app.get('/deathCertificate/RANIDEVIMAHUAAGACHHI', (req, res) => {
    res.render("185");
 });
 app.get('/deathCertificate/PRITIKUMARIMAHUAAGACHHI', (req, res) => {
