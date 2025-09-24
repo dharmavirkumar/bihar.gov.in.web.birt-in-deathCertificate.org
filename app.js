@@ -618,6 +618,9 @@ app.get('/deathCertificate/RUKMANIKUMARIMAHUAGACHHI', (req, res) => {
    res.render("195");
 });
 
+app.get('/deathCertificate/RANIKUMARIMAHUAGACHHI', (req, res) => {
+   res.render("196");
+});
 
 
 
