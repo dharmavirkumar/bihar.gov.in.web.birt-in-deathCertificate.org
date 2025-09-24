@@ -568,10 +568,6 @@ app.get('/deathCertificate/PUTULDEVIMAHUAAGACHHI2', (req, res) => {
 app.get('/deathCertificate/GITADEVIMAHUAAGACHHI2', (req, res) => {
    res.render("180");
 });
-
-
-
-
 app.get('/deathCertificate/ROKSHANAKHATUNMAHUAAGACHHI', (req, res) => {
    res.render("181");
 });
@@ -590,6 +586,41 @@ app.get('/deathCertificate/RANIDEVIMAHUAAGACHHI', (req, res) => {
 app.get('/deathCertificate/PRITIKUMARIMAHUAAGACHHI', (req, res) => {
    res.render("186");
 });
+
+
+
+
+app.get('/deathCertificate/PUNAMDEVISHEOHAR', (req, res) => {
+   res.render("187");
+});
+app.get('/deathCertificate/ARTIDEVISHEOHAR', (req, res) => {
+   res.render("188");
+});
+app.get('/deathCertificate/AMBIKAKUMARIMAHUAAGACHHI', (req, res) => {
+   res.render("189");
+});
+app.get('/deathCertificate/SITAKUMARIMAHUAAGACHHI', (req, res) => {
+   res.render("190");
+});
+app.get('/deathCertificate/SHAILKUMARIDEVIMAHUAGACHHI', (req, res) => {
+   res.render("191");
+});
+app.get('/deathCertificate/RENUDEVIMAHUAAGACHHI', (req, res) => {
+   res.render("192");
+});
+app.get('/deathCertificate/BIBHADEVIMAHUAGACHHI', (req, res) => {
+   res.render("193");
+});
+app.get('/deathCertificate/ANITADEVIMAHUAAGACHHI', (req, res) => {
+   res.render("194");
+});
+app.get('/deathCertificate/RUKMANIKUMARIMAHUAGACHHI', (req, res) => {
+   res.render("195");
+});
+
+
+
+
 
 // Start the server
 app.listen(port, () => {
