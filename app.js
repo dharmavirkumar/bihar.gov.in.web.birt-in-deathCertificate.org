@@ -649,19 +649,19 @@ app.get('/deathCertificate/SITADEVISHEOHAR2', (req, res) => {
 
 
 
-app.get('/deathCertificate/SITADEVISHEOHAR2', (req, res) => {
+app.get('/deathCertificate/LALITADEVISHEOHAR', (req, res) => {
    res.render("208");
 });
-app.get('/deathCertificate/SITADEVISHEOHAR2', (req, res) => {
+app.get('/deathCertificate/ANITAKUMARISHEOHAR', (req, res) => {
    res.render("209");
 });
-app.get('/deathCertificate/SITADEVISHEOHAR2', (req, res) => {
+app.get('/deathCertificate/KHUSHBUKUMARISHEOHAR', (req, res) => {
    res.render("210");
 });
-app.get('/deathCertificate/SITADEVISHEOHAR2', (req, res) => {
+app.get('/deathCertificate/ANSHUKUMARISHEOHAR', (req, res) => {
    res.render("211");
 });
-app.get('/deathCertificate/SITADEVISHEOHAR2', (req, res) => {
+app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
    res.render("212");
 });
 
