@@ -666,20 +666,20 @@ app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
 
 
 
-app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
-   res.render("212");
+app.get('/deathCertificate/RUBYDEVISHEOHAR', (req, res) => {
+   res.render("213");
+});
+app.get('/deathCertificate/NIKYKUMARISHEOHAR', (req, res) => {
+   res.render("214");
 });
 app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
-   res.render("212");
+   res.render("215");
 });
 app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
-   res.render("212");
+   res.render("216");
 });
 app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
-   res.render("212");
-});
-app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
-   res.render("212");
+   res.render("217");
 });
 
 
