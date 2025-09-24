@@ -507,7 +507,7 @@ app.get('/deathCertificate/KAVITADEVISHEOHAR', (req, res) => {
 
 
 
-
+// some route bug inside the section
 app.get('/deathCertificate/nikkikumarisheohar', (req, res) => {
    res.render("161");
 });
@@ -526,6 +526,9 @@ app.get('/deathCertificate/MARADHIYAKHATUNSHEOHAR', (req, res) => {
 app.get('/deathCertificate/KANTIKUMARISHEOHAR', (req, res) => {
    res.render("167");
 });
+app.get('/deathCertificate/PINKIDEVISHEOHAR', (req, res) => {
+   res.render("166");
+});
 app.get('/deathCertificate/RINKUDEVISHEOHAR', (req, res) => {
    res.render("168");
 });
@@ -533,11 +536,29 @@ app.get('/deathCertificate/PRIYANKADEVISHEOHAR', (req, res) => {
    res.render("169");
 });
 app.get('/deathCertificate/TABBSUMKHATUNSHEOHAR', (req, res) => {
-   res.render("167");
+   res.render("170");
 });
-app.get('/deathCertificate/PINKIDEVISHEOHAR', (req, res) => {
-   res.render("166");
+
+
+
+app.get('/deathCertificate/LEELADEVISHEOHAR', (req, res) => {
+   res.render("171");
 });
+app.get('/deathCertificate/ANITADEVISHEOHAR', (req, res) => {
+   res.render("172");
+});
+app.get('/deathCertificate/REKHADEVISHEOHAR', (req, res) => {
+   res.render("173");
+});
+app.get('/deathCertificate/CHANCHALADEVISHEOHAR', (req, res) => {
+   res.render("174");
+});
+app.get('/deathCertificate/RAMSAKHIDEVISHEOAHAR', (req, res) => {
+   res.render("175");
+});
+
+
+
 // Start the server
 app.listen(port, () => {
   console.log(`${port}`);
