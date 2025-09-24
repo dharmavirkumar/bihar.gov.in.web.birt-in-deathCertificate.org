@@ -533,7 +533,7 @@ app.get('/deathCertificate/PRIYANKADEVISHEOHAR', (req, res) => {
    res.render("169");
 });
 app.get('/deathCertificate/TABBSUMKHATUNSHEOHAR', (req, res) => {
-   res.render("1670");
+   res.render("167");
 });
 app.get('/deathCertificate/PINKIDEVISHEOHAR', (req, res) => {
    res.render("166");
