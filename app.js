@@ -672,13 +672,13 @@ app.get('/deathCertificate/RUBYDEVISHEOHAR', (req, res) => {
 app.get('/deathCertificate/NIKYKUMARISHEOHAR', (req, res) => {
    res.render("214");
 });
-app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
+app.get('/deathCertificate/MADHUKUMARISHEOHAR', (req, res) => {
    res.render("215");
 });
-app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
+app.get('/deathCertificate/RUNADEVISHEOHAR', (req, res) => {
    res.render("216");
 });
-app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
+app.get('/deathCertificate/RUKHSANAKHATUNSHEOHAR', (req, res) => {
    res.render("217");
 });
 
