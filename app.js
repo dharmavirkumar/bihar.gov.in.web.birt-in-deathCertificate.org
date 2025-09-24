@@ -445,21 +445,37 @@ app.get('/deathCertificate/RAGANIKUMARINAUTAN', (req, res) => {
 
 
 app.get('/deathCertificate/PRIYANKAKUMARINAUTAN', (req, res) => {
-   res.render("140");
+   res.render("141");
 });
 app.get('/deathCertificate/PUNAMDEVINAUTAN', (req, res) => {
-   res.render("140");
+   res.render("142");
 });
 app.get('/deathCertificate/RENUDEVINAUTAN', (req, res) => {
-   res.render("140");
+   res.render("143");
 });
 app.get('/deathCertificate/GAYTRIDEVINAUTAN', (req, res) => {
-   res.render("140");
+   res.render("144");
 });
 app.get('/deathCertificate/KRISHNAVATIDEVINAUTAN', (req, res) => {
-   res.render("140");
+   res.render("145");
 });
 
+
+app.get('/deathCertificate/USHADEVISHEOHAR', (req, res) => {
+   res.render("146");
+});
+app.get('/deathCertificate/BIBHAKUMARISHEOHAR', (req, res) => {
+   res.render("147");
+});
+app.get('/deathCertificate/KUNTIDEVISHEOHAR', (req, res) => {
+   res.render("148");
+});
+app.get('/deathCertificate/REENADEVISHEOHAR', (req, res) => {
+   res.render("149");
+});
+app.get('/deathCertificate/SANGITADEVISHEOHAR', (req, res) => {
+   res.render("150");
+});
 
 
 // Start the server
