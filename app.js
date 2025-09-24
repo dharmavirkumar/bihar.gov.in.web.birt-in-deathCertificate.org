@@ -646,9 +646,6 @@ app.get('/deathCertificate/KHAISAKHATUNSHEOHAR', (req, res) => {
 app.get('/deathCertificate/SITADEVISHEOHAR2', (req, res) => {
    res.render("207");
 });
-
-
-
 app.get('/deathCertificate/LALITADEVISHEOHAR', (req, res) => {
    res.render("208");
 });
@@ -666,6 +663,24 @@ app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
 });
 
 
+
+
+
+app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
+   res.render("212");
+});
+app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
+   res.render("212");
+});
+app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
+   res.render("212");
+});
+app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
+   res.render("212");
+});
+app.get('/deathCertificate/PINKIKUMARISHEOHAR', (req, res) => {
+   res.render("212");
+});
 
 
 // Start the server
