@@ -504,6 +504,40 @@ app.get('/deathCertificate/anitadevisheohar', (req, res) => {
 app.get('/deathCertificate/KAVITADEVISHEOHAR', (req, res) => {
    res.render("160");
 });
+
+
+
+
+app.get('/deathCertificate/nikkikumarisheohar', (req, res) => {
+   res.render("161");
+});
+app.get('/deathCertificate/ANITADEVISHEOHAR', (req, res) => {
+   res.render("162");
+});
+app.get('/deathCertificate/RANIDEVISHEOHAR', (req, res) => {
+   res.render("163");
+});
+app.get('/deathCertificate/RAMKALIDEVISHEOHAR', (req, res) => {
+   res.render("164");
+});
+app.get('/deathCertificate/MARADHIYAKHATUNSHEOHAR', (req, res) => {
+   res.render("165");
+});
+app.get('/deathCertificate/KANTIKUMARISHEOHAR', (req, res) => {
+   res.render("167");
+});
+app.get('/deathCertificate/RINKUDEVISHEOHAR', (req, res) => {
+   res.render("168");
+});
+app.get('/deathCertificate/PRIYANKADEVISHEOHAR', (req, res) => {
+   res.render("169");
+});
+app.get('/deathCertificate/TABBSUMKHATUNSHEOHAR', (req, res) => {
+   res.render("1670");
+});
+app.get('/deathCertificate/PINKIDEVISHEOHAR', (req, res) => {
+   res.render("166");
+});
 // Start the server
 app.listen(port, () => {
   console.log(`${port}`);
