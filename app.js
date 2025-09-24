@@ -444,6 +444,21 @@ app.get('/deathCertificate/RAGANIKUMARINAUTAN', (req, res) => {
 
 
 
+app.get('/deathCertificate/PRIYANKAKUMARINAUTAN', (req, res) => {
+   res.render("140");
+});
+app.get('/deathCertificate/PUNAMDEVINAUTAN', (req, res) => {
+   res.render("140");
+});
+app.get('/deathCertificate/RENUDEVINAUTAN', (req, res) => {
+   res.render("140");
+});
+app.get('/deathCertificate/GAYTRIDEVINAUTAN', (req, res) => {
+   res.render("140");
+});
+app.get('/deathCertificate/KRISHNAVATIDEVINAUTAN', (req, res) => {
+   res.render("140");
+});
 
 
 
