@@ -736,8 +736,6 @@ app.get('/deathCertificate/KHUSHBOOTARAMOTIHARI', (req, res) => {
 app.get('/deathCertificate/PUJAKUMARIMOTIHARI', (req, res) => {
    res.render("237");
 });
-
-
 app.get('/deathCertificate/RADHIKADEVIMOTIHARI', (req, res) => {
    res.render("238");
 });
@@ -754,6 +752,30 @@ app.get('/deathCertificate/KANTIDEVIMOTIHARI', (req, res) => {
    res.render("242");
 });
 
+
+
+
+app.get('/deathCertificate/LAICHIDEVIMOTIHARI', (req, res) => {
+   res.render("243");
+});
+app.get('/deathCertificate/HASBUNKHATUNMOTIHARI', (req, res) => {
+   res.render("244");
+});
+app.get('/deathCertificate/KANCHANDEVIMOTIHARI', (req, res) => {
+   res.render("245");
+});
+app.get('/deathCertificate/PUJADEVIMOTIHARI', (req, res) => {
+   res.render("246");
+});
+app.get('/deathCertificate/SABYAKHATUNMOTIHARI', (req, res) => {
+   res.render("247");
+});
+app.get('/deathCertificate/RINKUDEVIMOTIHARI', (req, res) => {
+   res.render("248");
+});
+app.get('/deathCertificate/SUNAINADEVIMOTIHARI', (req, res) => {
+   res.render("249");
+});
 
 // Start the server
 app.listen(port, () => {
