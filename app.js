@@ -832,8 +832,6 @@ app.get('/deathCertificate/MEHNAKHATOONNAUTAN', (req, res) => {
 app.get('/deathCertificate/USHADEVINAUTAN', (req, res) => {
    res.render("269");
 });
-
-
 app.get('/deathCertificate/KUMANTIDEVINAUTAN', (req, res) => {
    res.render("270");
 });
@@ -851,6 +849,22 @@ app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
 });
 
 
+
+app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
+   res.render("274");
+});
+app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
+   res.render("274");
+});
+app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
+   res.render("274");
+});
+app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
+   res.render("274");
+});
+app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
+   res.render("274");
+});
 
 // Start the server
 app.listen(port, () => {
