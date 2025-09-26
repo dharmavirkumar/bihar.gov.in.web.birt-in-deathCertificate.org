@@ -850,20 +850,23 @@ app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
 
 
 
-app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
-   res.render("274");
+app.get('/deathCertificate/CHINTADEVINAUTAN', (req, res) => {
+   res.render("275");
 });
-app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
-   res.render("274");
+app.get('/deathCertificate/MUNNIDEVINAUTAN2', (req, res) => {
+   res.render("276");
 });
-app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
-   res.render("274");
+app.get('/deathCertificate/RITADEVINAUTAN2', (req, res) => {
+   res.render("277");
 });
-app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
-   res.render("274");
+app.get('/deathCertificate/SHOBHADEVINAUTAN2', (req, res) => {
+   res.render("278");
 });
-app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
-   res.render("274");
+app.get('/deathCertificate/ROJIDANKHATUNNAUTAN', (req, res) => {
+   res.render("279");
+});
+app.get('/deathCertificate/RANIDEVINAUTAN', (req, res) => {
+   res.render("280");
 });
 
 // Start the server
