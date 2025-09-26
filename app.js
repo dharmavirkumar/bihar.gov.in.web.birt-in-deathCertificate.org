@@ -802,9 +802,6 @@ app.get('/deathCertificate/CHANDADEVINAUTAN', (req, res) => {
 app.get('/deathCertificate/LAXMIDEVINAUTAN', (req, res) => {
    res.render("259");
 });
-
-
-
 app.get('/deathCertificate/RIMAKUMARINAUTAN', (req, res) => {
    res.render("260");
 });
@@ -835,6 +832,24 @@ app.get('/deathCertificate/MEHNAKHATOONNAUTAN', (req, res) => {
 app.get('/deathCertificate/USHADEVINAUTAN', (req, res) => {
    res.render("269");
 });
+
+
+app.get('/deathCertificate/KUMANTIDEVINAUTAN', (req, res) => {
+   res.render("270");
+});
+app.get('/deathCertificate/MAYADEVINAUTAN', (req, res) => {
+   res.render("271");
+});
+app.get('/deathCertificate/RITADEVINAUTAN', (req, res) => {
+   res.render("272");
+});
+app.get('/deathCertificate/SATIDEVINAUTAN', (req, res) => {
+   res.render("273");
+});
+app.get('/deathCertificate/SHOBHADEVINAUTAN', (req, res) => {
+   res.render("274");
+});
+
 
 
 // Start the server
