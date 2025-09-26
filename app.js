@@ -772,10 +772,6 @@ app.get('/deathCertificate/RINKUDEVIMOTIHARI', (req, res) => {
 app.get('/deathCertificate/SUNAINADEVIMOTIHARI', (req, res) => {
    res.render("249");
 });
-
-
-
-
 app.get('/deathCertificate/MAMTADEVINAUTAN', (req, res) => {
    res.render("250");
 });
@@ -805,6 +801,39 @@ app.get('/deathCertificate/CHANDADEVINAUTAN', (req, res) => {
 });
 app.get('/deathCertificate/LAXMIDEVINAUTAN', (req, res) => {
    res.render("259");
+});
+
+
+
+app.get('/deathCertificate/RIMAKUMARINAUTAN', (req, res) => {
+   res.render("260");
+});
+app.get('/deathCertificate/POOJAKUMARINAUTAN', (req, res) => {
+   res.render("261");
+});
+app.get('/deathCertificate/SHIVPATTIDEVINAUTAN', (req, res) => {
+   res.render("262");
+});
+app.get('/deathCertificate/GAYTRIDEVINAUTAN2', (req, res) => {
+   res.render("263");
+});
+app.get('/deathCertificate/KAVITADEVINAUTAN', (req, res) => {
+   res.render("264");
+});
+app.get('/deathCertificate/SUVASINIDEVINAUTAN', (req, res) => {
+   res.render("265");
+});
+app.get('/deathCertificate/MUNNIDEVINAUTAN', (req, res) => {
+   res.render("266");
+});
+app.get('/deathCertificate/GEETADEVINAUTAN', (req, res) => {
+   res.render("267");
+});
+app.get('/deathCertificate/MALTIDEVINAUTAN', (req, res) => {
+   res.render("268");
+});
+app.get('/deathCertificate/MEHNAJKHATOONNAUTAN', (req, res) => {
+   res.render("269");
 });
 
 
