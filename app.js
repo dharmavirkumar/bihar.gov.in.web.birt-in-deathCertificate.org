@@ -899,9 +899,6 @@ app.get('/deathCertificate/RAJKUMARIPUPARI', (req, res) => {
 app.get('/deathCertificate/BEBIDEVIPUPARI', (req, res) => {
    res.render("290");
 });
-
-
-
 app.get('/deathCertificate/PRATIBHADEVIPUPARI', (req, res) => {
    res.render("291");
 });
@@ -932,6 +929,40 @@ app.get('/deathCertificate/PHULODEVIPUPARI2', (req, res) => {
 app.get('/deathCertificate/SONIDEVIPUPARI', (req, res) => {
    res.render("300");
 });
+
+
+
+app.get('/deathCertificate/GITAdevipupari', (req, res) => {
+   res.render("301");
+});
+app.get('/deathCertificate/ANJANIKUMARIPUPARI', (req, res) => {
+   res.render("302");
+});
+app.get('/deathCertificate/SHILADEVIPUPARI', (req, res) => {
+   res.render("303");
+});
+app.get('/deathCertificate/PUNAMDEVIPUPARI', (req, res) => {
+   res.render("304");
+});
+app.get('/deathCertificate/ASIYAKHTOON', (req, res) => {
+   res.render("305");
+});
+app.get('/deathCertificate/PUNAMKUAMRIPUPARI', (req, res) => {
+   res.render("306");
+});
+app.get('/deathCertificate/NEELAMDEVIPUPARI', (req, res) => {
+   res.render("307");
+});
+app.get('/deathCertificate/BHUKHANIYADEVIPUPARI', (req, res) => {
+   res.render("308");
+});
+app.get('/deathCertificate/RUPADEVIPUPRI', (req, res) => {
+   res.render("309");
+});
+app.get('/deathCertificate/ARHULADEVIPUPRI', (req, res) => {
+   res.render("310");
+});
+
 // Start the server
 app.listen(port, () => {
   console.log(`${port}`);
